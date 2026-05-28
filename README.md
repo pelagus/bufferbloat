@@ -1,4 +1,11 @@
 # bufferbloat
-Canonical repository moved to:  https://github.com/pelagus/bufferbloat.org
 
-Live site at https://bufferbloat.org
+This repository name is reserved.
+
+The canonical project repository is:
+
+https://github.com/pelagus/bufferbloat.org
+
+Live site:
+
+https://bufferbloat.org
