@@ -1,11 +1,5 @@
-# bufferbloat
+# Bufferbloat - Open-source internet reliability project
+This repository is archived and no longer maintained.
 
-This repository name is reserved.
-
-The canonical project repository is:
-
-https://github.com/pelagus/bufferbloat.org
-
-Live site:
-
-https://bufferbloat.org
+The canonical project has moved to https://github.com/pelagus/bufferbloat.org.
+For documentation and live tools, visit https://bufferbloat.org.
